@@ -28,6 +28,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespace "sma_coding_dev_flutter_sdk"
     compileSdkVersion 34
 
     compileOptions {
