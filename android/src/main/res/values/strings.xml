@@ -1,0 +1,4 @@
+<resources>
+    <string name="incoming_call">Incoming Call</string>
+    <string name="missed_call">Missed Call</string>
+</resources>

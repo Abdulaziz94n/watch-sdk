@@ -1,0 +1,8 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+# Mac OS Unique folders
+.DS_Store
+*/.DS_Store
+

@@ -1,0 +1,596 @@
+[
+	{
+		"mCalorie": 90000,
+		"mDistance": 2900000,
+		"mLocalTime": "2023/02/16 08:15:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 378,
+		"mTime": 1676506500000
+	},
+	{
+		"mCalorie": 240000,
+		"mDistance": 7310000,
+		"mLocalTime": "2023/02/16 08:30:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 952,
+		"mTime": 1676507400000
+	},
+	{
+		"mCalorie": 410000,
+		"mDistance": 12540000,
+		"mLocalTime": "2023/02/16 08:37:41",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 1633,
+		"mTime": 1676507861000
+	},
+	{
+		"mCalorie": 410000,
+		"mDistance": 12540000,
+		"mLocalTime": "2023/02/16 08:38:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1633,
+		"mTime": 1676507880000
+	},
+	{
+		"mCalorie": 470000,
+		"mDistance": 12540000,
+		"mLocalTime": "2023/02/16 08:39:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1633,
+		"mTime": 1676507940000
+	},
+	{
+		"mCalorie": 520000,
+		"mDistance": 12610000,
+		"mLocalTime": "2023/02/16 08:40:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1643,
+		"mTime": 1676508000000
+	},
+	{
+		"mCalorie": 550000,
+		"mDistance": 12610000,
+		"mLocalTime": "2023/02/16 08:41:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1643,
+		"mTime": 1676508060000
+	},
+	{
+		"mCalorie": 600000,
+		"mDistance": 12840000,
+		"mLocalTime": "2023/02/16 08:42:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1673,
+		"mTime": 1676508120000
+	},
+	{
+		"mCalorie": 660000,
+		"mDistance": 13270000,
+		"mLocalTime": "2023/02/16 08:43:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1728,
+		"mTime": 1676508180000
+	},
+	{
+		"mCalorie": 730000,
+		"mDistance": 13520000,
+		"mLocalTime": "2023/02/16 08:44:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1761,
+		"mTime": 1676508240000
+	},
+	{
+		"mCalorie": 780000,
+		"mDistance": 13520000,
+		"mLocalTime": "2023/02/16 08:45:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1761,
+		"mTime": 1676508300000
+	},
+	{
+		"mCalorie": 830000,
+		"mDistance": 13610000,
+		"mLocalTime": "2023/02/16 08:46:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1773,
+		"mTime": 1676508360000
+	},
+	{
+		"mCalorie": 870000,
+		"mDistance": 13610000,
+		"mLocalTime": "2023/02/16 08:47:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1773,
+		"mTime": 1676508420000
+	},
+	{
+		"mCalorie": 900000,
+		"mDistance": 13700000,
+		"mLocalTime": "2023/02/16 08:48:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1784,
+		"mTime": 1676508480000
+	},
+	{
+		"mCalorie": 930000,
+		"mDistance": 13840000,
+		"mLocalTime": "2023/02/16 08:49:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1803,
+		"mTime": 1676508540000
+	},
+	{
+		"mCalorie": 950000,
+		"mDistance": 13950000,
+		"mLocalTime": "2023/02/16 08:50:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1817,
+		"mTime": 1676508600000
+	},
+	{
+		"mCalorie": 970000,
+		"mDistance": 14040000,
+		"mLocalTime": "2023/02/16 08:51:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1829,
+		"mTime": 1676508660000
+	},
+	{
+		"mCalorie": 980000,
+		"mDistance": 14160000,
+		"mLocalTime": "2023/02/16 08:52:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1845,
+		"mTime": 1676508720000
+	},
+	{
+		"mCalorie": 1040000,
+		"mDistance": 14260000,
+		"mLocalTime": "2023/02/16 08:53:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1858,
+		"mTime": 1676508780000
+	},
+	{
+		"mCalorie": 1120000,
+		"mDistance": 14510000,
+		"mLocalTime": "2023/02/16 08:54:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1890,
+		"mTime": 1676508840000
+	},
+	{
+		"mCalorie": 1180000,
+		"mDistance": 14670000,
+		"mLocalTime": "2023/02/16 08:55:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1911,
+		"mTime": 1676508900000
+	},
+	{
+		"mCalorie": 1240000,
+		"mDistance": 15060000,
+		"mLocalTime": "2023/02/16 08:56:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1962,
+		"mTime": 1676508960000
+	},
+	{
+		"mCalorie": 1280000,
+		"mDistance": 15150000,
+		"mLocalTime": "2023/02/16 08:57:00",
+		"mMode": 0,
+		"mState": 1,
+		"mStep": 1973,
+		"mTime": 1676509020000
+	},
+	{
+		"mCalorie": 1300000,
+		"mDistance": 15150000,
+		"mLocalTime": "2023/02/16 08:57:37",
+		"mMode": 0,
+		"mState": 4,
+		"mStep": 1973,
+		"mTime": 1676509057000
+	},
+	{
+		"mCalorie": 1300000,
+		"mDistance": 15150000,
+		"mLocalTime": "2023/02/16 09:00:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 1973,
+		"mTime": 1676509200000
+	},
+	{
+		"mCalorie": 1300000,
+		"mDistance": 15150000,
+		"mLocalTime": "2023/02/16 09:14:25",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 1973,
+		"mTime": 1676510065000
+	},
+	{
+		"mCalorie": 1300000,
+		"mDistance": 15150000,
+		"mLocalTime": "2023/02/16 09:15:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 1973,
+		"mTime": 1676510100000
+	},
+	{
+		"mCalorie": 1320000,
+		"mDistance": 15660000,
+		"mLocalTime": "2023/02/16 09:22:02",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2040,
+		"mTime": 1676510522000
+	},
+	{
+		"mCalorie": 1370000,
+		"mDistance": 17160000,
+		"mLocalTime": "2023/02/16 09:30:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2235,
+		"mTime": 1676511000000
+	},
+	{
+		"mCalorie": 1390000,
+		"mDistance": 17740000,
+		"mLocalTime": "2023/02/16 09:34:18",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2311,
+		"mTime": 1676511258000
+	},
+	{
+		"mCalorie": 1390000,
+		"mDistance": 17760000,
+		"mLocalTime": "2023/02/16 09:34:19",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2313,
+		"mTime": 1676511259000
+	},
+	{
+		"mCalorie": 1390000,
+		"mDistance": 17920000,
+		"mLocalTime": "2023/02/16 09:35:54",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2334,
+		"mTime": 1676511354000
+	},
+	{
+		"mCalorie": 1390000,
+		"mDistance": 18000000,
+		"mLocalTime": "2023/02/16 09:45:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2344,
+		"mTime": 1676511900000
+	},
+	{
+		"mCalorie": 1410000,
+		"mDistance": 18310000,
+		"mLocalTime": "2023/02/16 10:00:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2385,
+		"mTime": 1676512800000
+	},
+	{
+		"mCalorie": 1410000,
+		"mDistance": 18610000,
+		"mLocalTime": "2023/02/16 10:15:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2424,
+		"mTime": 1676513700000
+	},
+	{
+		"mCalorie": 1410000,
+		"mDistance": 18610000,
+		"mLocalTime": "2023/02/16 10:30:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2424,
+		"mTime": 1676514600000
+	},
+	{
+		"mCalorie": 1420000,
+		"mDistance": 18840000,
+		"mLocalTime": "2023/02/16 10:45:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2454,
+		"mTime": 1676515500000
+	},
+	{
+		"mCalorie": 1430000,
+		"mDistance": 19130000,
+		"mLocalTime": "2023/02/16 11:00:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2492,
+		"mTime": 1676516400000
+	},
+	{
+		"mCalorie": 1450000,
+		"mDistance": 19630000,
+		"mLocalTime": "2023/02/16 11:15:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2556,
+		"mTime": 1676517300000
+	},
+	{
+		"mCalorie": 1470000,
+		"mDistance": 20310000,
+		"mLocalTime": "2023/02/16 11:16:39",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2645,
+		"mTime": 1676517399000
+	},
+	{
+		"mCalorie": 1490000,
+		"mDistance": 20780000,
+		"mLocalTime": "2023/02/16 11:30:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2707,
+		"mTime": 1676518200000
+	},
+	{
+		"mCalorie": 1500000,
+		"mDistance": 21270000,
+		"mLocalTime": "2023/02/16 11:45:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2770,
+		"mTime": 1676519100000
+	},
+	{
+		"mCalorie": 1530000,
+		"mDistance": 22100000,
+		"mLocalTime": "2023/02/16 12:00:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 2878,
+		"mTime": 1676520000000
+	},
+	{
+		"mCalorie": 1580000,
+		"mDistance": 23500000,
+		"mLocalTime": "2023/02/16 12:15:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3060,
+		"mTime": 1676520900000
+	},
+	{
+		"mCalorie": 1580000,
+		"mDistance": 23500000,
+		"mLocalTime": "2023/02/16 12:30:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3060,
+		"mTime": 1676521800000
+	},
+	{
+		"mCalorie": 1580000,
+		"mDistance": 23500000,
+		"mLocalTime": "2023/02/16 12:45:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3060,
+		"mTime": 1676522700000
+	},
+	{
+		"mCalorie": 1580000,
+		"mDistance": 23500000,
+		"mLocalTime": "2023/02/16 13:00:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3060,
+		"mTime": 1676523600000
+	},
+	{
+		"mCalorie": 1580000,
+		"mDistance": 23500000,
+		"mLocalTime": "2023/02/16 13:15:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3060,
+		"mTime": 1676524500000
+	},
+	{
+		"mCalorie": 1580000,
+		"mDistance": 23500000,
+		"mLocalTime": "2023/02/16 13:30:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3060,
+		"mTime": 1676525400000
+	},
+	{
+		"mCalorie": 1590000,
+		"mDistance": 23900000,
+		"mLocalTime": "2023/02/16 13:45:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3112,
+		"mTime": 1676526300000
+	},
+	{
+		"mCalorie": 1590000,
+		"mDistance": 23900000,
+		"mLocalTime": "2023/02/16 13:45:46",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3112,
+		"mTime": 1676526346000
+	},
+	{
+		"mCalorie": 1600000,
+		"mDistance": 24220000,
+		"mLocalTime": "2023/02/16 14:00:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3154,
+		"mTime": 1676527200000
+	},
+	{
+		"mCalorie": 1610000,
+		"mDistance": 24440000,
+		"mLocalTime": "2023/02/16 14:15:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3183,
+		"mTime": 1676528100000
+	},
+	{
+		"mCalorie": 1630000,
+		"mDistance": 25020000,
+		"mLocalTime": "2023/02/16 14:30:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3259,
+		"mTime": 1676529000000
+	},
+	{
+		"mCalorie": 1640000,
+		"mDistance": 25390000,
+		"mLocalTime": "2023/02/16 14:45:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3307,
+		"mTime": 1676529900000
+	},
+	{
+		"mCalorie": 1640000,
+		"mDistance": 25460000,
+		"mLocalTime": "2023/02/16 15:00:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3316,
+		"mTime": 1676530800000
+	},
+	{
+		"mCalorie": 1640000,
+		"mDistance": 25460000,
+		"mLocalTime": "2023/02/16 15:15:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3316,
+		"mTime": 1676531700000
+	},
+	{
+		"mCalorie": 1640000,
+		"mDistance": 25520000,
+		"mLocalTime": "2023/02/16 15:30:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3323,
+		"mTime": 1676532600000
+	},
+	{
+		"mCalorie": 1640000,
+		"mDistance": 25520000,
+		"mLocalTime": "2023/02/16 15:45:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3323,
+		"mTime": 1676533500000
+	},
+	{
+		"mCalorie": 1660000,
+		"mDistance": 26150000,
+		"mLocalTime": "2023/02/16 16:00:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3406,
+		"mTime": 1676534400000
+	},
+	{
+		"mCalorie": 1670000,
+		"mDistance": 26270000,
+		"mLocalTime": "2023/02/16 16:15:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3421,
+		"mTime": 1676535300000
+	},
+	{
+		"mCalorie": 1680000,
+		"mDistance": 26670000,
+		"mLocalTime": "2023/02/16 16:30:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3473,
+		"mTime": 1676536200000
+	},
+	{
+		"mCalorie": 1690000,
+		"mDistance": 26990000,
+		"mLocalTime": "2023/02/16 16:45:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3515,
+		"mTime": 1676537100000
+	},
+	{
+		"mCalorie": 1710000,
+		"mDistance": 27670000,
+		"mLocalTime": "2023/02/16 17:00:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3604,
+		"mTime": 1676538000000
+	},
+	{
+		"mCalorie": 1750000,
+		"mDistance": 28930000,
+		"mLocalTime": "2023/02/16 17:15:00",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3768,
+		"mTime": 1676538900000
+	},
+	{
+		"mCalorie": 1770000,
+		"mDistance": 29530000,
+		"mLocalTime": "2023/02/16 17:21:59",
+		"mMode": 0,
+		"mState": 0,
+		"mStep": 3846,
+		"mTime": 1676539319000
+	}
+]
